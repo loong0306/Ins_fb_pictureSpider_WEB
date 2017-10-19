@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/fb_ins_news
+    username:
+    password:
+
+mvc:
+  view:
+    prefix: /WEB-INF/jsp/
+    suffix: .jsp

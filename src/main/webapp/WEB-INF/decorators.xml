@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<decorators defaultdir="/WEB-INF/layouts/">
+    <!-- 禁用装饰器 -->
+    <excludes>
+        <pattern>/static/*</pattern>
+    </excludes>
+    <!-- 加载装饰器 -->
+    <decorator name="demo_test" page="default_demo.jsp">
+        <pattern>/demo*</pattern>
+    </decorator>
+</decorators>
