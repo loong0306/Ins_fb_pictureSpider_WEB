@@ -25,7 +25,6 @@
     <script src="${ctx}/js/mobile-angular-ui.gestures.min.js"></script>
     <script src="${ctx}/js/app.js"></script>
     <script src="${ctx}/js/comm.js"></script>
-    <script src="${ctx}/js/tongji.js"></script>
     <!--弹窗-->
     <script src="${ctx}/js/jquery-1.11.1.min.js"></script>
     <link rel="stylesheet" href="${ctx}/css/common.css">
