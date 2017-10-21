@@ -44,22 +44,21 @@
 ```
 
 #### 关于代码：
-```html
-1.项目开发于2017.04使用了[AprilDragonSpring](https://github.com/dragon-yuan/AprilDragonSpring)
-虽然整合的框架没有优美，但也是本人在Git上的起步项目，所以有些情怀。
-2.在项目中使用的druid，service层使用JDBC，为了查看下JDBC的效率，也可以换成其他技术使用。
-```
+1.项目开发于2017.04使用了[AprilDragonSpring](https://github.com/dragon-yuan/AprilDragonSpring) 
+虽然整合的框架没有优美，但也是本人在Git上的起步项目，所以有些情怀。 
+2.在项目中使用的druid，service层使用JDBC，为了查看下JDBC的效率，也可以换成其他技术使用。 
 
+
+#### 项目展示：
+![](project-img/1.jpg) 
 
 #### 感谢：
-```html
-1.[facebook4j](https://github.com/roundrop/facebook4j)
-    -> 感谢此项目，并使用到了项目中，很好的依赖
-2.[instagram4j](https://github.com/lithiumtech/instagram4j)
-    -> 此项目无法使用代理，所以只能使用爬虫自行爬取
-3.[weibo-spider](https://github.com/yuki-lau/weibo-spider)
-    -> 感谢此项目提供了学习的机会，但由于新浪微博API禁用，目前不适用由于新浪微博
-4.感谢前端技术
-    -> alertPopShow.js
-    -> mobile-angular-ui.js
-```
+1.[facebook4j](https://github.com/roundrop/facebook4j) 
+    -> 感谢此项目，并使用到了项目中，很好的依赖 
+2.[instagram4j](https://github.com/lithiumtech/instagram4j) 
+    -> 此项目无法使用代理，所以只能使用爬虫自行爬取 
+3.[weibo-spider](https://github.com/yuki-lau/weibo-spider) 
+    -> 感谢此项目提供了学习的机会，但由于新浪微博API禁用，目前不适用由于新浪微博 
+4.感谢前端技术 
+    -> alertPopShow.js 
+    -> mobile-angular-ui.js 
