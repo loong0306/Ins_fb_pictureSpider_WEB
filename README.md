@@ -1,10 +1,13 @@
 # Ins_fb_pictureSpider
-让无法科学上网的粉丝关注爱豆的脸书与照片墙动态
+✈让无法科学上网的粉丝关注爱豆的脸书与照片墙动态
 
 #### 关于项目：
+```html
 1.Ins_fb_pictureSpider项目是我为了追偶像（G.E.M）开发的小应用程序，方便查看爱豆在FB和INS上的图文动态。
 2.同时有一些粉丝由于无法科学上网，所以通过此项目可以帮助了解资讯动态。
 3.您可以换成所希望关注博主的FB和INS，具体请参考使用第四条。
+```
+
 
 #### 使用：
 ```html
@@ -41,12 +44,15 @@
 ```
 
 #### 关于代码：
+```html
 1.项目开发于2017.04使用了[AprilDragonSpring](https://github.com/dragon-yuan/AprilDragonSpring)
 虽然整合的框架没有优美，但也是本人在Git上的起步项目，所以有些情怀。
 2.在项目中使用的druid，service层使用JDBC，为了查看下JDBC的效率，也可以换成其他技术使用。
+```
 
 
 #### 感谢：
+```html
 1.[facebook4j](https://github.com/roundrop/facebook4j)
     -> 感谢此项目，并使用到了项目中，很好的依赖
 2.[instagram4j](https://github.com/lithiumtech/instagram4j)
@@ -56,3 +62,4 @@
 4.感谢前端技术
     -> alertPopShow.js
     -> mobile-angular-ui.js
+```
