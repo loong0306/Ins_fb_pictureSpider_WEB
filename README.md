@@ -45,7 +45,7 @@
 
 #### 关于代码：
 1.项目开发于2017.04使用了[AprilDragonSpring](https://github.com/dragon-yuan/AprilDragonSpring) </br>
-虽然整合的框架没有优美，但也是本人在Git上的起步项目，所以有些情怀。 </br>
+虽然整合的框架并不优美，但也是本人在Git上的起步项目，所以有些情怀。 </br>
 2.在项目中使用的druid，service层使用JDBC，为了查看下JDBC的效率，也可以换成其他技术使用。 </br>
 
 
